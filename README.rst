@@ -11,6 +11,7 @@ $ ./bb.py mydatafile
 
 * Will create a plot "mydatafilebblocks.pdf"
 * And a data file "mydatafilebblocks.txt", containing three columns:
+
   * start time
   * stop time
   * rate
